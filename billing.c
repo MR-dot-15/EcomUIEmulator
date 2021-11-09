@@ -186,8 +186,7 @@ int main()
                 index += 1;
             }
             else{
-                float tot;
-                printf("Total: %f\n", tot);
+                printf("Total: %s\n", phrase);
                 index += 1;
 
                 //printing purchased items
