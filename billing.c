@@ -166,7 +166,7 @@ int main()
         //accessing invoices.txt in read mode
         FILE *fp_iv = fopen("invoices.txt", "r");
 
-        while(fscanf(fp_iv, "%s", &phrase)!=EOF){
+        while(fscanf(fp_iv, "%s", phrase)!=EOF){
             //printing date and total amount spent
             if(index == 0){
                 items_per_purchase = atoi(phrase);
