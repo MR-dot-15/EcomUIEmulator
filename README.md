@@ -25,13 +25,16 @@
   * Should come back to ```mainUI.c``` after termination
   * Status: <i>Working</i>
 ## Comments
-* ```Time.txt``` can be modified
-* Max cart size = 10
+* All the txt files mentioned sit inside ```/accessories```
+* ```time.txt``` (availability of delivery van in a particular slot) can be modified
+* ```pin.txt```... self-explanatory
 * Search option in ```billing.c``` is dropped
 * ```fgets``` in ```billing.c``` is replaced by```scanf["%[^\n]s", *string]```
 * In ```mainUI.c```, the attributes of the structure "product"- reorder, i remain unused
 * ```cart.txt``` has a one-time purpose, should be overwritten before every purchase
+* Max cart size = 10
 * ```invoices.txt``` contain entire the purchase history
+* ```Nov__9_2021.txt``` is a demo receipt
 ## ToDo
 - [ ] ```mainUI.c```: addtocart() function should reduce # of available products
 - [ ] ```mainUI.c```: a search() function, as it's asked for in the question
