@@ -21,7 +21,7 @@
 * ```billing.c```
   * Is supposed to produce a bill...
   * And append the purchase details to a purchase-history doc
-  * Generates a receipt in txt format, and display on CLI as well
+  * Generates a receipt in txt format, and displays on the CLI as well
   * Should come back to ```mainUI.c``` after termination
   * Status: <i>Working</i>
 ## Comments
