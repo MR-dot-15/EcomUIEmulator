@@ -23,6 +23,7 @@
   * And append the purchase details to a purchase-history doc
   * Generates a receipt in txt format, and display on CLI as well
   * Should come back to ```mainUI.c``` after termination
+  * Status: <i>Working</i>
 ## Comments
 * ```Time.txt``` can be modified
 * Max cart size = 10
