@@ -1,0 +1,9 @@
+4 Nov__9_2021    2241.25
+chair 2
+rice 1
+bulb 2
+cat 1
+3 Nov__9_2021     603.65
+rice 1
+bulb 2
+daru 10
