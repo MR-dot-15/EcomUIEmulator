@@ -5,11 +5,11 @@
   * Is supposed to function as the primary interface
   * Log-in
   * Display products
-  * Search for a product (?)
+  * Search for a product
   * Add to cart
   * Display cart
   * Proceed to buying
-  * Status: <i>Unknown</i>
+  * Not maintained
 * ```delivery_and_billing.c```
   * Redirected from ```mainUI.c```
   * Actions:
